@@ -1,4 +1,4 @@
-import spacy
+# import spacy
 import streamlit as st
 import pandas as pd
 from Explanation import show_explanation
